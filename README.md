@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek Rajeshirke
+- 👋 Hi, I’m Abhishek Rajeshirke
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C-DAC
 - 📫 How to reach me abhirajeshirke152@gmail.com
